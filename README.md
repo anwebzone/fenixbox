@@ -6,3 +6,5 @@ För att FenixBox ska fungera så behöver du först ladda ner och lägga till j
 FenixBox är även beroende av Font-Awesome The iconic font and CSS toolkit.
 
 ##Download & Use FenixBox
+
+> git clone https://github.com/anwebzone/fenixbox.git
