@@ -26,10 +26,10 @@ Lägg till fenixbox.js i sidans head direkt efter jQuery såhär:
 ```
 
 ###Användning
-Lägg enkelt till css klassen .fenixbox på den bild du vill att FenixBox ska förstora.
+Lägg till klassen "fenixbox" på den bild du vill att FenixBox ska förstora.
 
 Du kan även om du vill lägga till en titel som visas när bilden förstoras.
 ```html
-<img class="fenixbox" src="koenigsegg.jpg" alt="" title="Koenigsegg Agera R - World record holder 0-300-0 km/h 21,19 sec"/>
+<img class="fenixbox" src="koenigsegg.jpg" alt="" title="Koenigsegg Agera R"/>
 ```
 
