@@ -8,3 +8,14 @@ FenixBox är även beroende av Font-Awesome The iconic font and CSS toolkit.
 ##Download & Use FenixBox
 
 > git clone https://github.com/anwebzone/fenixbox.git
+> Zip download https://github.com/anwebzone/fenixbox/archive/master.zip
+
+###Use
+Se till att du har jQuery och Font-Awesome på den sida du tänkt använda pluginen på, annars kommer inte FenixBox att fungera som tänkt.
+
+Lägg till fenixbox.css i din <head> alternativt kopiera css koden i fenixbox.css till en befintlig stylesheet.
+> <link rel="stylesheet" type="text/css" href="fenixbox.css">
+
+Lägg till fenixbox.js i din <head> direkt efter jQuery.
+> <script src="fenixbox.js"></script>
+
