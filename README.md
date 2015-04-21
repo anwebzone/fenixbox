@@ -1,5 +1,5 @@
 # FenixBox
-Fenixbox är en enkel jQuery plugin för att förstora bilder.
+FenixBox är en simpel jQuery plugin för att förstora bilder.
 ##Krav
 För att FenixBox ska fungera så behöver du först ladda ner och lägga till jQuery.
 
