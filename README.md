@@ -27,9 +27,9 @@ Lägg till fenixbox.js i sidans head direkt efter jQuery såhär:
 ###Användning
 ```html
 <script type="text/javascript">
-$(document).ready(function (){
-	$('.fenixbox').fenixBox();
-});
+	$(document).ready(function (){
+	    $('.fenixbox').fenixBox();
+	});
 </script>
 ```
 
