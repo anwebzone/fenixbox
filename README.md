@@ -13,12 +13,12 @@ FenixBox är även beroende av Font-Awesome The iconic font and CSS toolkit.
 ###Use
 Se till att du har jQuery och Font-Awesome på den sida du tänkt använda pluginen på, annars kommer inte FenixBox att fungera som tänkt.
 
-Lägg till fenixbox.css i din <head> alternativt kopiera css koden i fenixbox.css till en befintlig stylesheet.
+Lägg till fenixbox.css i sidans head alternativt kopiera css koden i fenixbox.css till en befintlig stylesheet.
 ```html
 <link rel="stylesheet" type="text/css" href="fenixbox.css">
 ```
 
-Lägg till fenixbox.js i din <head> direkt efter jQuery.
+Lägg till fenixbox.js i sidans head direkt efter jQuery.
 ```html
 <script src="fenixbox.js"></script>
 ```
