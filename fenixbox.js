@@ -1,3 +1,7 @@
+$(document).ready(function (){
+	$('.fenixbox').fenixBox();
+});
+
 (function($){
 
 	$.fn.fenixBox = function(){
