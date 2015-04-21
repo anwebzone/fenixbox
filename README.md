@@ -8,6 +8,7 @@ FenixBox är även beroende av Font-Awesome The iconic font and CSS toolkit.
 ##Ladda ner, installera och använda FenixBox
 
 > git clone https://github.com/anwebzone/fenixbox.git
+
 > Zip download https://github.com/anwebzone/fenixbox/archive/master.zip
 
 ###Installation
