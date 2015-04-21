@@ -56,8 +56,7 @@ $(document).ready(function (){
 						.appendTo('#fenixbox');
 						
 						$('<i></i>')
-							.addClass('fa fa-times-circle fa-2x')
-							.addClass('fenixbox-exit')
+							.addClass('fa fa-times-circle fa-3x fenixbox-exit')
 							.insertAfter('#fenixbox img')
 							.click(function(){
 									removeFenixBox();
